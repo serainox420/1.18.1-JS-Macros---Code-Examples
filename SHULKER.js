@@ -1,0 +1,5 @@
+Chat.say("Looking for some goodies..")
+Chat.title("Show me Shulkers...", "Make sure ESP enabled", 15, 22, 66)
+Chat.say("@goto shulker_box")
+Chat.say(".t BlockESP")
+World.playSound("block.ender_chest.open", 100)
